@@ -17,7 +17,7 @@ There are currently two developers who's been working on this project. We've div
 - Microsoft Azure
 
 # Goals
-The purpose of this project was to practice following topics:
+The purpose of this project was to practice following subjects:
 - handling HTTP requests with Django REST Framework for different HTTP methods,
 - user authentication, authorization and permissions using JWT Token,
 - managing database records and relationships through Django ORM,
@@ -48,10 +48,12 @@ The purpose of this project was to practice following topics:
 
 # Development plans
 We're still working on this project and we want to add the following features:
-- adding new products/offers,
 - limiting customer access to offers only if he meets certain requirements,
+- adding new products/offers,
 - calculate current number of subscribtions left to finalize the offer,
 - integration with Inpost API to choose a pick up parcel locker,
 - integration with PayPal as a payment method,
 - searchbar,
 - filtering products by their attributes.
+
+# Setup
