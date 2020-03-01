@@ -4,8 +4,6 @@ Online platform to associate vendors with a group of customers. Vendor agrees th
 You can find it here:
 http://commondeal.azurewebsites.net/
 
-We decided to separate the back and frontend servers. Backend is running on Django REST Framework while front is made in Vue.js. 
-
 There are currently two developers who's been working on this project. We've divided work equally so that we could both work on every aspect of this application.
 
 # Tech Stack
