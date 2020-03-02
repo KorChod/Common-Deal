@@ -64,7 +64,8 @@ The purpose of this project was to practice following subjects:
 - product list view,
 - sorting items by price,
 - filtering products by category,
-- product detail view.
+- product detail view,
+- admin site to manage database resources.
 
 # Development plans
 We're still working on this project and we want to add the following features:
