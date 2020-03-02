@@ -82,11 +82,11 @@ Please note that this project uses Sendgrid services. You may need to create you
 You will have to install Node.js if you don't have it yet.
 - create database,
 - create `.env` file in `common_deal` directory,
-- define following variables in `.env` file to set up connection with the database:
-`DATABASE_NAME`,
-`USER_NAME`,
-`USER_PASSWORD`,
-`SENDGRID_API_KEY`,
+- define following variables in `.env` file to establish connection with the database:
+  - `DATABASE_NAME`,
+  - `USER_NAME`,
+  - `USER_PASSWORD`,
+  - `SENDGRID_API_KEY`,
 - create migrations with `python manage.py makemigrations`,
 - apply migrations with `python manage.py migrate`,
 - you may want to create a super user to get access to admin panel `python manage.py createsuperuser`,
