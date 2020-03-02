@@ -6,6 +6,20 @@ http://commondeal.azurewebsites.net/
 
 There are currently two developers who's been working on this project. We've divided work equally so that we could both work on every aspect of this application.
 
+# Screenshots
+Home page - product list:
+![product_list](git_resources/commondeal1.png)
+
+Filtering offers by product category:
+![product_category](git_resources/commondeal2.png)
+
+User registration:
+![user_registration](git_resources/commondeal3.png)
+
+User login:
+![user_login](git_resources/commondeal4.png)
+
+
 # Tech Stack
 - Python
 - Django / Django REST Framework
