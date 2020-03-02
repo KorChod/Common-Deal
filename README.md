@@ -68,7 +68,7 @@ The purpose of this project was to practice following subjects:
 
 # Development plans
 We're still working on this project and we want to add the following features:
-- limiting customer access to offers only if he meets certain requirements,
+- limiting customer access to offers only if one meets certain requirements,
 - adding new products/offers,
 - calculate current number of subscribtions left to finalize the offer,
 - integration with Inpost API to choose a pick up parcel locker,
