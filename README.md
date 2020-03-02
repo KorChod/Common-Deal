@@ -8,16 +8,24 @@ There are currently two developers who's been working on this project. We've div
 
 # Screenshots
 Home page - product list:
-![product_list](git_resources/commondeal1.png)
+
+![product_list](git_resources/1.png)
 
 Filtering offers by product category:
-![product_category](git_resources/commondeal2.png)
+
+![product_category](git_resources/2.png)
+
+Product detail view:
+
+![product_category](git_resources/3.png)
 
 User registration:
-![user_registration](git_resources/commondeal3.png)
+
+![user_registration](git_resources/4.png)
 
 User login:
-![user_login](git_resources/commondeal4.png)
+
+![user_login](git_resources/5.png)
 
 
 # Tech Stack
