@@ -80,8 +80,9 @@ We're still working on this project and we want to add the following features:
 ## Setup
 Please note that this project uses Sendgrid services. You may need to create your own account to make this project work properly.
 You will have to install Node.js if you don't have it yet.
-- create database,
-- create `.env` file in `common_deal` directory,
+- install packages from `requirements.txt`,
+- create a database,
+- create a `.env` file in `common_deal` directory to store environment variables,
 - define following variables in `.env` file to establish connection with the database:
   - `DATABASE_NAME`,
   - `USER_NAME`,
