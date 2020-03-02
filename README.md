@@ -6,7 +6,7 @@ http://commondeal.azurewebsites.net/
 
 There are currently two developers who's been working on this project. We've divided work equally so that we could both work on every aspect of this application.
 
-# Screenshots
+## Screenshots
 1. Home page - product list:
 
 ![product_list](git_resources/1.png)
@@ -28,7 +28,7 @@ There are currently two developers who's been working on this project. We've div
 ![user_login](git_resources/5.png)
 
 
-# Tech Stack
+## Tech Stack
 - Python
 - Django / Django REST Framework
 - Vue.js
@@ -36,7 +36,7 @@ There are currently two developers who's been working on this project. We've div
 - PostgreSQL
 - Microsoft Azure
 
-# Goals
+## Goals
 The purpose of this project was to practice following subjects:
 - handling HTTP requests with Django REST Framework for different HTTP methods,
 - user authentication, authorization and permissions using JWT Token,
@@ -59,7 +59,7 @@ The purpose of this project was to practice following subjects:
 - how to build applications using Vuetify - material design component framework for Vue.js,
 - deployment on Microsoft Azure.
 
-# Implemented Features
+## Implemented Features
 - user registration, login, logout and password recovery,
 - product list view,
 - sorting items by price,
@@ -67,7 +67,7 @@ The purpose of this project was to practice following subjects:
 - product detail view,
 - admin site to manage database resources.
 
-# Development plans
+## Development plans
 We're still working on this project and we want to add the following features:
 - limiting customer access to offers only if one meets certain requirements,
 - adding new products/offers,
@@ -77,7 +77,7 @@ We're still working on this project and we want to add the following features:
 - searchbar,
 - filtering products by their attributes.
 
-# Setup
+## Setup
 Please note that this project uses Sendgrid services. You may need to create your own account to make this project work properly.
 You will have to install Node.js if you don't have it yet.
 - create database,
