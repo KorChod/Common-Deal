@@ -80,15 +80,15 @@ We're still working on this project and we want to add the following features:
 # Setup
 Please note that this project uses Sendgrid services. You may need to create your own account to make this project work properly.
 You will have to install Node.js if you don't have it yet.
-- create database
-- create `.env` file in `common_deal` directory
+- create database,
+- create `.env` file in `common_deal` directory,
 - define following variables in `.env` file to set up connection with the database:
 `DATABASE_NAME`,
 `USER_NAME`,
 `USER_PASSWORD`,
-`SENDGRID_API_KEY`.
-- create migrations with `python manage.py makemigrations`
-- apply migrations with `python manage.py migrate`
-- you may want to create a super user to get access to admin panel `python manage.py createsuperuser`
-- run Django server with `python manage.py runserver`
-- then change directory to `/frontend` and run Node.js server with `npm run serve`
+`SENDGRID_API_KEY`,
+- create migrations with `python manage.py makemigrations`,
+- apply migrations with `python manage.py migrate`,
+- you may want to create a super user to get access to admin panel `python manage.py createsuperuser`,
+- run Django server with `python manage.py runserver`,
+- then change directory to `/frontend` and run Node.js server with `npm run serve`.
