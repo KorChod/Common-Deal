@@ -1,23 +1,31 @@
 # Common-Deal
 Online platform to associate vendors with a group of customers. Vendor agrees that if sufficient amount of potential customers will gather, he's going to sell the product for a wholesale price. The purpose of this project was to practice MVC pattern, separating back and frontend, managing database resources through ORM and to finally deploy it on the Microsoft Azure cloud service.
 
-You can find it here:
+Webpage address:
 http://commondeal.azurewebsites.net/
 
 There are currently two developers who's been working on this project. We've divided work equally so that we could both work on every aspect of this application.
 
 # Screenshots
-Home page - product list:
-![product_list](git_resources/commondeal1.png)
+1. Home page - product list:
 
-Filtering offers by product category:
-![product_category](git_resources/commondeal2.png)
+![product_list](git_resources/1.png)
 
-User registration:
-![user_registration](git_resources/commondeal3.png)
+2. Filtering offers by product category:
 
-User login:
-![user_login](git_resources/commondeal4.png)
+![product_category](git_resources/2.png)
+
+3. Product detail view:
+
+![product_category](git_resources/3.png)
+
+4. User registration:
+
+![user_registration](git_resources/4.png)
+
+5. User login:
+
+![user_login](git_resources/5.png)
 
 
 # Tech Stack
@@ -56,11 +64,12 @@ The purpose of this project was to practice following subjects:
 - product list view,
 - sorting items by price,
 - filtering products by category,
-- product detail view.
+- product detail view,
+- admin site to manage database resources.
 
 # Development plans
 We're still working on this project and we want to add the following features:
-- limiting customer access to offers only if he meets certain requirements,
+- limiting customer access to offers only if one meets certain requirements,
 - adding new products/offers,
 - calculate current number of subscribtions left to finalize the offer,
 - integration with Inpost API to choose a pick up parcel locker,
