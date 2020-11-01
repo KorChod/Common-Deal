@@ -1,11 +1,6 @@
 # Common-Deal
 Online platform to associate vendors with a group of customers. Vendor agrees that if sufficient amount of potential customers will gather, he's going to sell the product for a wholesale price. The purpose of this project was to practice MVC pattern, separating back and frontend, managing database resources through ORM and to finally deploy it on the Microsoft Azure cloud service.
 
-Webpage address:
-http://commondeal.azurewebsites.net/
-
-There are currently two developers who's been working on this project. We've divided work equally so that we could both work on every aspect of this application.
-
 ## Screenshots
 1. Home page - product list:
 
@@ -68,7 +63,6 @@ The purpose of this project was to practice following subjects:
 - admin site to manage database resources.
 
 ## Development plans
-We're still working on this project and we want to add the following features:
 - limiting customer access to offers only if one meets certain requirements,
 - adding new products/offers,
 - calculate current number of subscribtions left to finalize the offer,
